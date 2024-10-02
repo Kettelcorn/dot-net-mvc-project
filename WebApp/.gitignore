@@ -1,0 +1,71 @@
+## Ignore Visual Studio temporary files, build results, and
+## other generated files.
+
+# User-specific files
+*.rsuser
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.idea/
+.terraform/
+
+# Logs
+*.log
+logs/
+*.tlg
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+
+# Enable "build/" folder in the NuGet package folder since NuGet uses it for staging files
+# before publishing to nuget.org.
+!packages/build/
+
+# Uncomment if using .NET Core Worker
+# *.db
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# VS Code directories
+.vscode/
+
+# Rider project files
+.idea/
+
+# Packages
+*.nupkg
+*.snupkg
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# Windows image file caches
+Thumbs.db
+
+# Windows thumbnails cache files
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Service Fabric secrets
+.sas
+
+# End of global .NET Core ignore file
