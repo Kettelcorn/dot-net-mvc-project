@@ -69,3 +69,5 @@ Desktop.ini
 .sas
 
 # End of global .NET Core ignore file
+
+.vs/
